@@ -1,0 +1,124 @@
+/*-----------HEADERs-------------------------------*/
+
+header { 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  div {
+    width: max-content;
+    align-self: center;
+    justify-self: center;
+  }
+}
+
+#headerHOME {
+  background-color: #E5E5E5;
+  margin-top: inherit;
+}
+
+#headerTienda{
+  background: linear-gradient(to bottom, #E9CCBC 10%, white 75%);
+  margin-top: inherit;
+}
+
+#headerComprar {
+  background: rgba(214, 164, 164, 0.5);
+  margin-top: inherit;
+}
+
+#headerCarrito{
+  background: linear-gradient(to bottom, #b2bfce 10%, white 75%);
+  margin-top: inherit;
+}
+ 
+#headerContacto{
+  background-color: white;
+}
+  
+/*------------Menú de pantallas medianas y grandes-----------------*/
+#menuPrincipal { 
+  text-align: center;
+  height: min-content;
+  align-self: center;
+  width: 100%;
+  ul {
+    list-style-type: none;
+    font-weight: 800;
+    font-size:1.7rem;
+    width: 100%;
+    li { 
+      text-align: center;
+      a:hover{ 
+        color: white;  
+        background-color: black;
+        border-radius: 0.4rem;
+        transition: 300ms linear;
+      }
+      #btnCarritoNav:hover{
+        color: #7B94B3;  
+        background-color: inherit;
+        transition: 100ms linear;
+      }
+    }
+  }
+}
+
+#menuPrincipal ul.scrolled {
+  background-color: #fff !important;
+  transition: background-color 300ms linear;
+  font-size:1.3rem;
+}
+
+
+#estoyAca{
+  color: white;  
+  background-color: black;
+  border-radius: 0.4rem;
+}
+  
+#lblCartCount {
+  font-size: 1rem;
+  background: #db868c;
+  color: #1f1e1e;
+  //color: #fff;
+  //padding: 0 5px;
+  vertical-align: top;
+  display: none;
+}
+
+   
+/*---------Menú de pantallas chicas-------------*/
+  
+a.dropdown-item.seccion-activa {
+    color: #DCABAE; 
+}
+  
+.dropdown {
+  margin-bottom: 0; 
+}
+  
+.dropdown-menu.show {
+  background-color: #404040;
+  color: white; 
+}
+    
+.dropdown-item {
+  color: white; 
+}
+
+#btnCarritoNavDrop:hover{
+  color: #7B94B3;  
+  background-color: inherit;
+  transition: 100ms linear;
+}
+
+#lblCartCountDrop{
+  font-size: 1rem;
+  background: #DCABAE;
+  color: #1f1e1e;
+  //color: #fff;
+  //padding: 0 5px;
+  vertical-align: top;
+  display: none;
+}

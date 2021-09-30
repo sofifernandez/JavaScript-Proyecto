@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Quarter",
+        "tipo": "ANILLO",
+        "precio": 1700,
+        "imagen": "imagenes/anillos/quarter.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Patrón y Patrona",
+        "tipo": "ANILLO",
+        "precio": 2100,
+        "imagen": "imagenes/anillos/patron_a.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Mold",
+        "tipo": "ANILLO",
+        "precio": 1700,
+        "imagen": "imagenes/anillos/mold2.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Drop, Egg & Line",
+        "tipo": "ANILLO",
+        "precio": 1700,
+        "imagen": "imagenes/anillos/dropEggLine.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Line",
+        "tipo": "ARO",
+        "precio": 1700,
+        "imagen": "imagenes/aros/line.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Quarter",
+        "tipo": "ARO",
+        "precio": 1900,
+        "imagen": "imagenes/aros/quarter.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Quarter Long",
+        "tipo": "ARO",
+        "precio": 2100,
+        "imagen": "imagenes/aros/quarter_long.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Solid",
+        "tipo": "ARO",
+        "precio": 2000,
+        "imagen": "imagenes/aros/solid.png"
+    }
+]

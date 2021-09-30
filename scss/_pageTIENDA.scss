@@ -1,0 +1,35 @@
+/*----------------TIENDA------------------------*/
+
+.textoTienda {
+  border: solid 2px black;
+  border-radius: 25px;
+  background-color: #f0dfd7;
+  box-shadow: 5px 8px #888888;
+}
+  
+.instaIcono{
+  font-size: 4rem;
+  &:hover{
+    color: #7B94B3;
+  }
+} 
+
+.horario{
+  color: #838383;
+}
+  
+.ellauri:hover{
+  color: #7B94B3;
+}
+
+
+  
+#carruselTienda div div div img{
+  border-radius: 50%;
+}
+
+
+iframe {
+  box-shadow: 5px 5px #888888;
+}
+

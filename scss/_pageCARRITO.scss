@@ -1,0 +1,151 @@
+/* -----------------------------------CARRITO---------------------------------------------------------------------------------- */
+
+.btnSeguirComprando{
+  padding: 0.4rem;
+  background-color: cadetblue;
+  border: black 2px solid;
+  border-radius: 0.1rem;
+  font-weight: 700;
+  font-size: 1rem;
+  a{
+    color: black;
+    &:hover{
+      color: white;
+    }
+  }
+}
+
+#imagenCard {
+    max-width: 130px;
+    max-height: 130px;
+    width: auto;
+    height: auto; 
+}
+  
+.btnVaciar{
+  padding: 0.4rem;
+  background-color: #b6765d;
+  font-weight: 700;
+  font-size: 1rem;
+  border: black 2px solid;
+  border-radius: 0.1rem;
+  a{
+    color: black;
+    &:hover{
+      color: white;
+    }
+  }
+}
+
+.cart-title{
+  color: #242424;
+}
+
+table {
+  thead {
+    tr {
+      display: flex;
+      width: 100%;
+      background-color: #dbdcdf;
+      font-weight: 800;
+        th {
+          border-top: none;
+          border-bottom: none;
+          width: 25%;
+          max-width: 25%;
+          font-size: 1rem;
+          color: #242424;              
+        }
+    }
+  }
+  tbody {
+      width: 100%;
+      display: block;
+      tr {
+          display: flex;
+          align-items: center;
+          width: 100%;
+          td {
+              border: none;
+              width: 25%;
+              max-width: 25%;
+              h5 {
+                  font-size: 1rem;
+                  color: #252525;
+              }
+              .qty-btn {
+              background-color: #f5f7fa;
+              color: #242424;
+              font-size: 1rem;
+                  
+                  
+              }
+          }
+      }
+  }
+}
+
+.cart-summary {
+  background-color: #E9CCBC;
+  border: 1px solid black;
+  box-shadow: 5px 5px #888888;
+  .summary-table {
+      li {
+          display: flex;
+          justify-content: space-between ;
+          span {
+              color: #302e2e;
+              font-size: 1rem;
+          }
+      }
+  }
+}
+
+#accionAgregar{
+  background-color: #a1c0a4;
+  border: none;
+  &:hover{
+    border-color: black;
+    border: solid 1.5px;
+    box-shadow: 1px 1px #242424;
+  }
+}
+
+#accionRestar{
+  background-color: #f7af93;
+  border: none;
+  color: black;
+  &:hover{
+    border-color: black;
+    border: solid 1.5px;
+    box-shadow: 1px 1px #242424;
+  }
+}
+
+#dropdownCambiar{
+  background-color: #647891;
+  border: none;
+  &:hover{
+    background-color: #3f618b;
+    
+  }
+  
+}
+
+#accionEliminar{
+  background-color: rgb(184, 93, 93);
+  border: none;
+  &:hover{
+    background-color: rgb(165, 59, 59);
+    
+  }
+}
+
+.btnCheckout{
+  background-color: #7B94B3;
+  border: 2px solid black;
+  border-radius: 1rem;
+  &:hover{
+      color: white;
+    }
+}

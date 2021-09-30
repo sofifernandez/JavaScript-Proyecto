@@ -1,0 +1,93 @@
+/*---------------------------COMPRAR------------------------------*/
+#fondoBW {
+  padding: 15rem 0;
+  background: url("../imagenes/taller/b_w.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: scroll; /*fixed no funciona en iOS*/
+  background-size: cover;
+}
+
+#parrafoTaller {
+  font-weight: 800;
+  color: black;
+  line-height: 3rem;
+  text-align: center;
+  border-radius: 0.3rem;
+  background: rgba(214, 164, 164, 0.7);
+  a {
+    text-decoration: underline;
+    color: #DCABAE;
+  }
+}
+
+  
+#backGroundC {
+  background: rgba(214, 164, 164, 0.5);
+  border-left: solid 2px black;
+  border-right: solid 2px black;
+  border-top: solid 2px black;
+  border-radius: 0.1rem;
+}
+
+#comprarUno {
+  font-weight: 800;
+  color: rgb(75, 74, 74);
+  line-height: 3rem;
+  text-align: center;
+  
+  a {
+    text-decoration: underline;
+    color: #ad6a6e;
+    &:hover{
+      background-color: rgb(177, 174, 174);
+    }
+  }
+}
+
+#comprarDos {
+  @extend #comprarUno;
+  font-weight: 500;
+}
+
+#mediosPago {
+  border-radius: 0.3rem;
+ .list-group-item{
+    background-color: rgba(58, 58, 58, 0.8);
+    color: rgb(250, 250, 250);
+  }
+}
+
+
+#botonPasos{
+  border-color:black;
+  border-width: 2px;
+  background-color: #e6888e;
+  border-radius: 0.2rem;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 1.8rem;
+  &:hover{  
+    color: white;  
+    background-color: black;
+    transition: 300ms linear;
+  }
+}
+
+.bolsita{
+  @extend #backGroundC;
+  border-top: none;
+  border-bottom: solid 2px black;
+  img{
+    border-radius: 75px;
+    transition: 0.05s;
+    filter: grayscale(1);
+    &:hover{
+      filter: grayscale(0);
+    }
+  }
+}
+
+#imgCarruselComprar{
+  border-radius: 20px;
+}

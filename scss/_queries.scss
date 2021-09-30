@@ -1,0 +1,87 @@
+/*-------------Media queries--------------------------------------------*/
+
+/*----CELULARES------*/
+@media only screen and (max-width:576px){ 
+  /*FOOTER*/
+  #menuPrincipalFooter {
+    text-align: center;
+    width: 50%;
+    ul {
+      width: 100%;
+      li{
+        display: inline-block;
+        margin-left: 10px;
+        margin-right: 10px;
+        justify-content: center;
+        align-content: center;
+        width: min-content;
+      }
+    }
+  }
+}
+
+/*-----Mobile, celus y iPads--------*/
+@media only screen and (max-width: 767px) { 
+
+  /*HEADER*/
+  header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    align-content: center;
+    justify-self: center;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+  }
+  
+      
+  #logoHeader {
+    margin-bottom: 0;
+    a img {
+      max-width:100px;
+      max-height:100px;
+      width:auto;
+      height:auto;
+      margin-bottom: 0;  
+    }
+  }
+  
+    
+  /*FOOTER*/
+      
+  .links {
+    margin-top: 10px;
+    a i {
+      font-size: 1.7rem;
+    }
+  }
+
+    
+
+  /*COMPRAR*/
+  #fondoBW{
+    padding: 15rem 0;
+    background: url("../imagenes/taller/IMG_2788_3.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll; /*tenía FIXED pero en iOS no funciona*/
+    background-size: cover;
+  }
+
+  .bolsita{
+    img{
+      filter: grayscale(0);
+    }
+  }        
+}
+
+  
+/* Breakpoints de bootstrap
+  X-Small	None	<576px --> celu
+  Small	sm	≥576px --> iPad
+  Medium	md	≥768px --> compus
+  Large	lg	≥992px
+  Extra large	xl	≥1200px
+  Extra extra large	xxl	≥1400px
+*/

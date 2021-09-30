@@ -1,0 +1,59 @@
+ /*------------------------------------HOME--------------*/
+  .project {
+    background-color: #494949;
+  }
+  
+  .bordeCollage {
+    border: solid;
+    border-color: #757373;
+  }
+  
+  h2 {
+    font-size: 3rem;
+  }
+  
+  .featured-text {
+    font-size: 2rem;
+  }
+
+  .card {
+    border-color: white;
+}
+  
+.card-img-top:hover {
+   transform: scale(1.1,1.1);
+   transition: 0.25s;
+}
+
+#cartel {
+  border: 4px solid black;
+}
+
+.btn-Carrito{
+  padding: 0.4rem;
+  border-color: black;
+  background-color: #DCABAE;
+  border-radius: 0.2rem;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 1rem;
+}
+.btn-Carrito:hover {
+  border-color: white;
+  color: white;
+  background-color: black;
+  transition: 300ms linear;
+}
+
+#btnVerCarrito {
+  border-color: black;
+  border-width: 2px;
+  background-color: #E9CCBC;
+  border-radius: 0.2rem;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 1.8rem; }
+  #btnVerCarrito a:hover {
+    color: white;
+    background-color: black;
+    transition: 300ms linear; }

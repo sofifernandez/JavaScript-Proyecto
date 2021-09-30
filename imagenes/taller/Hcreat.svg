@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="317.73132mm"
+   height="45.937477mm"
+   viewBox="0 0 317.73132 45.937477"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="dibujo - copia.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0">
+      <rect
+         id="rect833"
+         height="399"
+         width="458"
+         y="1341"
+         x="188" />
+    </clipPath>
+    <clipPath
+       id="clip0-4">
+      <rect
+         id="rect861"
+         height="298"
+         width="401"
+         y="973"
+         x="519" />
+    </clipPath>
+    <clipPath
+       id="clip0-6">
+      <rect
+         id="rect987"
+         height="467"
+         width="578"
+         y="887"
+         x="136" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.94316065"
+     inkscape:cx="444.31974"
+     inkscape:cy="140.3367"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.7591,-99.353606)">
+    <g
+       id="g1004"
+       transform="matrix(0.11513152,0,0,0.11513152,-2.4974666,-2.7680525)"
+       clip-path="url(#clip0-6)"
+       style="stroke-width:2.29809">
+      <path
+         id="path992"
+         fill-rule="evenodd"
+         d="M 202,928.795 C 202,905.712 220.712,887 243.795,887 h 374.41 C 641.288,887 660,905.712 660,928.795 v 315.415 c 0,23.08 -18.712,41.79 -41.795,41.79 H 243.795 C 220.712,1286 202,1267.29 202,1244.21 Z"
+         style="stroke-width:3.57129" />
+      <path
+         id="rect994"
+         style="fill:#ffffff;stroke-width:3.57129"
+         d="m 231,959 h 400 v 297 H 231 Z" />
+      <path
+         id="path996"
+         fill-rule="evenodd"
+         fill="#ffffff"
+         d="m 498,922 c 0,-8.837 7.835,-16 17.5,-16 9.665,0 17.5,7.163 17.5,16 0,8.837 -7.835,16 -17.5,16 -9.665,0 -17.5,-7.163 -17.5,-16 z"
+         style="stroke-width:3.57129" />
+      <g
+         aria-label="&lt;/&gt;"
+         transform="translate(268.012,1164)"
+         id="text998"
+         style="font-weight:700;font-size:220px;font-family:Calibri, Calibri_MSFontService, sans-serif;stroke-width:3.57129">
+        <path
+           d="m 98.291016,-18.691406 q 0,3.974609 -0.322266,6.230468 -0.322266,2.25586 -1.074219,3.2226567 -0.644531,0.9667969 -1.71875,0.859375 -0.966797,-0.1074218 -2.578125,-0.859375 L 10.205078,-50.273437 q -1.5039061,-0.859375 -2.2558593,-3.544922 -0.6445312,-2.792969 -0.6445312,-8.271485 0,-2.792968 0.2148437,-4.833984 0.2148438,-2.148438 0.5371094,-3.4375 0.3222657,-1.396484 0.859375,-2.148438 0.6445313,-0.859375 1.3964844,-1.289062 l 82.285156,-40.820312 q 3.115235,-1.50391 4.404297,0.64453 1.289063,2.04102 1.289063,8.48633 0,4.4043 -0.214844,6.982421 -0.107422,2.578125 -0.53711,4.082031 -0.429687,1.503906 -1.18164,2.148437 -0.751953,0.644532 -2.041016,1.289063 l -61.875,29.003906 60.69336,28.144531 q 1.611328,0.751954 2.578125,1.503907 1.074218,0.751953 1.611328,2.363281 0.537109,1.503906 0.751953,4.189453 0.214844,2.578125 0.214844,7.089844 z"
+           style="font-weight:700;font-size:220px;font-family:Calibri, Calibri_MSFontService, sans-serif;stroke-width:3.57129"
+           id="path1061" />
+        <path
+           d="m 136.64062,27.822266 q -0.5371,1.396484 -1.39648,2.255859 -0.85937,0.859375 -2.4707,1.396484 -1.50391,0.53711 -3.86719,0.751953 -2.25586,0.322266 -5.80078,0.322266 -4.4043,0 -7.19727,-0.429687 -2.79297,-0.429688 -4.29687,-1.289063 -1.39649,-0.859375 -1.61133,-2.255859 -0.21484,-1.289063 0.42969,-3.115235 l 64.23828,-180.361324 q 0.42969,-1.39649 1.28906,-2.25586 0.85938,-0.9668 2.36328,-1.50391 1.50391,-0.53711 3.86719,-0.75195 2.4707,-0.32227 5.9082,-0.32227 4.51172,0 7.19727,0.42969 2.79297,0.42969 4.18945,1.28906 1.39649,0.85938 1.61133,2.25586 0.21484,1.28906 -0.32227,3.11524 z"
+           style="font-weight:700;font-size:220px;font-family:Calibri, Calibri_MSFontService, sans-serif;stroke-width:3.57129"
+           id="path1063" />
+        <path
+           d="m 306.15234,-61.767578 q 0,2.792969 -0.21484,4.833984 -0.21484,2.041016 -0.64453,3.4375 -0.32227,1.396485 -0.9668,2.25586 -0.53711,0.751953 -1.28906,1.074218 l -82.39258,40.8203129 q -1.50391,0.7519531 -2.57812,0.6445312 -1.07422,-0.1074219 -1.82618,-1.1816406 -0.64453,-1.0742185 -0.96679,-3.1152345 -0.21485,-2.148437 -0.21485,-5.371094 0,-4.404296 0.10743,-6.982421 0.21484,-2.578125 0.64453,-4.082032 0.42968,-1.503906 1.18164,-2.148437 0.75195,-0.751953 2.04101,-1.289063 L 280.9082,-61.875 220.21484,-90.019531 q -1.71875,-0.751953 -2.79297,-1.503906 -0.96679,-0.751954 -1.5039,-2.25586 -0.53711,-1.611328 -0.75195,-4.189453 -0.10743,-2.68555 -0.10743,-7.19727 0,-3.97461 0.21485,-6.23046 0.32226,-2.25586 0.96679,-3.22266 0.75196,-0.9668 1.82618,-0.85938 1.07421,0.10743 2.57812,0.85938 l 82.5,41.142578 q 1.39649,0.644531 2.14844,3.4375 0.85937,2.792968 0.85937,8.271484 z"
+           style="font-weight:700;font-size:220px;font-family:Calibri, Calibri_MSFontService, sans-serif;stroke-width:3.57129"
+           id="path1065" />
+      </g>
+      <path
+         id="path1000"
+         fill-rule="evenodd"
+         fill="#ffffff"
+         d="m 547,922 c 0,-8.837 7.835,-16 17.5,-16 9.665,0 17.5,7.163 17.5,16 0,8.837 -7.835,16 -17.5,16 -9.665,0 -17.5,-7.163 -17.5,-16 z"
+         style="stroke-width:3.57129" />
+      <path
+         id="path1002"
+         fill-rule="evenodd"
+         fill="#ffffff"
+         d="m 595,922 c 0,-8.837 7.835,-16 17.5,-16 9.665,0 17.5,7.163 17.5,16 0,8.837 -7.835,16 -17.5,16 -9.665,0 -17.5,-7.163 -17.5,-16 z"
+         style="stroke-width:3.57129" />
+    </g>
+    <g
+       aria-label="highland creations"
+       transform="scale(1.0679517,0.93637192)"
+       id="text1023"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.6411px;line-height:1.25;font-family:'Rage Italic';-inkscape-font-specification:'Rage Italic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">
+      <text
+         transform="scale(0.93637193,1.0679517)"
+         id="text866"
+         y="131.0533"
+         x="77.70636"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0700043"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0700043"
+           y="131.0533"
+           x="77.70636"
+           id="tspan864"
+           sodipodi:role="line">highland creations</tspan></text>
+    </g>
+  </g>
+</svg>
